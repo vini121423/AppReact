@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import wppIcon from '../../images/icons/whatsapp.svg';
+import wppIcon from '../../assets/images/icons/whatsapp.svg';
 
 
 export interface Teacher{

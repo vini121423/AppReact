@@ -4,8 +4,6 @@ import './styles.css';
 import api from '../../services/api';
 
 
-
-
 import logoImg from '../../assets/images/logo.svg';
 import landingImg from '../../assets/images/landing.svg';
 import studyIcon from '../../assets/images/icons/study.svg';

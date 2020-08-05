@@ -4,6 +4,7 @@ import Input from '../../components/input';
 import Select from '../../components/Select';
 import api from '../../services/api';
 import TeacherItem,{Teacher} from '../../components/TeacherItem';
+import './styles.css';
 
 
 

@@ -27,7 +27,7 @@ function Landing(){
 			   <h2>Sua plataforma de estudos!</h2>
 			</div>
 			<img src={landingImg} className="hero-image"></img>
-		 </div>
+		 
 
 		 <div className="buttons-container">
 			 <Link to="/study" className="study">
@@ -40,6 +40,7 @@ function Landing(){
 			 </Link>
 		 </div>
 		 <span className="total-connections">Total de {totalConnections} conexões <img src={purpleHeartIcon}></img></span>
+		 </div>
 	 </div>
 	);
 	}
